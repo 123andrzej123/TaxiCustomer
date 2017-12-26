@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">taxi</string>
+    <string name="call_taxi_phone">Wezwij taksówkę przez telefon</string>
+    <string name="call_taxi_internet">Wezwij taksówkę przez Internet</string>
+    <string name="call_taxi_sms">Wezwij taksówkę przez SMS</string>
+
+    <string name="call_taxi_phone_na">Opcja: "Wezwij taksówkę przez telefon" nie dostępna</string>
+    <string name="call_taxi_internet_na">Opcja: "Wezwij taksówkę przez Internet" nie jest jeszcze dostępna</string>
+
+    <string name="call_taxi_sms_simple_body">Przyjedź po mnie, czekam tu: </string>
+
 </resources>
