@@ -1,4 +1,4 @@
-package com.example.a123andrzej123.taxi;
+package com.example.a123andrzej123.taxicustomer;
 
 import org.junit.Test;
 

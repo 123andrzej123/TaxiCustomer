@@ -6,7 +6,7 @@
     android:background="@color/colorAccent"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context="com.example.a123andrzej123.taxi.TaxiActivity">
+    tools:context="pl.rabkataxi.taxi.taxicustomer.TaxiCustomerActivity">
 
     <Button
         android:layout_width="match_parent"
@@ -17,6 +17,25 @@
         android:onClick="callTaxiInternet"
         android:text="@string/call_taxi_internet"
         android:textColor="@color/colorWhite" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorBlack"
+        android:layout_margin="10dp"
+        android:text="Taxi location:"
+        android:textColor="@color/colorWhite" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorBlack"
+        android:layout_margin="10dp"
+        android:text=""
+        android:textColor="@color/colorWhite"
+        android:id="@+id/taxiLocation"/>
 
     <Button
         android:id="@+id/buttonCallTaxiPhone"

@@ -9,4 +9,8 @@
 
     <string name="call_taxi_sms_simple_body">Przyjedź po mnie, czekam tu: </string>
 
+    <string name="call_taxi_location_na_alert_title">Lokalizacja wyłączona</string>
+    <string name="call_taxi_location_na_alert_text">Proszę włącz lokalizację i spróbuj ponownie</string>
+
+
 </resources>
